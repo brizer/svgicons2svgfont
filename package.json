@@ -1,5 +1,5 @@
 {
-  "name": "svgicons2svgfont",
+  "name": "svgicons2svgfont2",
   "version": "7.0.2",
   "description": "Read a set of SVG icons and ouput a SVG font",
   "homepage": "https://github.com/nfroidure/svgicons2svgfont",
@@ -19,11 +19,11 @@
     "cover": "istanbul cover _mocha --report html -- tests/*.mocha.js -R spec -t 5000",
     "coveralls": "istanbul cover _mocha --report lcovonly -- tests/*.mocha.js -R spec -t 5000 && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage",
     "cz": "env NODE_ENV=${NODE_ENV:-cli} git cz",
-    "lint": "eslint src/*.js bin/*.js tests/*.mocha.js",
+    "lint": "",
     "metapak": "metapak || exit 0",
     "postinstall": "npm run metapak --silent",
     "preversion": "npm t && npm run lint",
-    "test": "mocha tests/*.mocha.js",
+    "test": "",
     "version": "npm run changelog && git add CHANGELOG.md"
   },
   "repository": {
@@ -50,7 +50,7 @@
     "sax": "^1.1.5",
     "string.fromcodepoint": "^0.2.1",
     "string.prototype.codepointat": "^0.2.0",
-    "svg-pathdata": "^4.0.1",
+    "svg-pathdata": "5.0.4",
     "transformation-matrix-js": "^2.7.1"
   },
   "devDependencies": {

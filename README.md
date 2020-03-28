@@ -3,16 +3,16 @@
 # module. Do not change it elsewhere, changes would
 # be overriden.
 -->
-# svgicons2svgfont
+# svgicons2svgfont2
 > Read a set of SVG icons and ouput a SVG font
 
-[![NPM version](https://badge.fury.io/js/svgicons2svgfont.svg)](https://npmjs.org/package/svgicons2svgfont)
-[![Build status](https://secure.travis-ci.org/nfroidure/svgicons2svgfont.svg)](https://travis-ci.org/nfroidure/svgicons2svgfont)
-[![Dependency Status](https://david-dm.org/nfroidure/svgicons2svgfont.svg)](https://david-dm.org/nfroidure/svgicons2svgfont)
-[![devDependency Status](https://david-dm.org/nfroidure/svgicons2svgfont/dev-status.svg)](https://david-dm.org/nfroidure/svgicons2svgfont#info=devDependencies)
-[![Coverage Status](https://coveralls.io/repos/nfroidure/svgicons2svgfont/badge.svg?branch=master)](https://coveralls.io/r/nfroidure/svgicons2svgfont?branch=master)
-[![Code Climate](https://codeclimate.com/github/nfroidure/svgicons2svgfont.svg)](https://codeclimate.com/github/nfroidure/svgicons2svgfont)
-[![Dependency Status](https://dependencyci.com/github/nfroidure/svgicons2svgfont/badge)](https://dependencyci.com/github/nfroidure/svgicons2svgfont)
+[![NPM version](https://badge.fury.io/js/svgicons2svgfont2.svg)](https://npmjs.org/package/svgicons2svgfont2)
+[![Build status](https://secure.travis-ci.org/nfroidure/svgicons2svgfont2.svg)](https://travis-ci.org/nfroidure/svgicons2svgfont2)
+[![Dependency Status](https://david-dm.org/nfroidure/svgicons2svgfont2.svg)](https://david-dm.org/nfroidure/svgicons2svgfont2)
+[![devDependency Status](https://david-dm.org/nfroidure/svgicons2svgfont2/dev-status.svg)](https://david-dm.org/nfroidure/svgicons2svgfont2#info=devDependencies)
+[![Coverage Status](https://coveralls.io/repos/nfroidure/svgicons2svgfont2/badge.svg?branch=master)](https://coveralls.io/r/nfroidure/svgicons2svgfont2?branch=master)
+[![Code Climate](https://codeclimate.com/github/nfroidure/svgicons2svgfont2.svg)](https://codeclimate.com/github/nfroidure/svgicons2svgfont2)
+[![Dependency Status](https://dependencyci.com/github/nfroidure/svgicons2svgfont2/badge)](https://dependencyci.com/github/nfroidure/svgicons2svgfont2)
 
 svgicons2svgfont is a simple tool to merge
  multiple icons to an SVG font.
@@ -242,4 +242,4 @@ You can also use [webfonts-generator](https://www.npmjs.com/package/webfonts-gen
 Feel free to push your code if you agree with publishing under the MIT license.
 
 # License
-[MIT](https://github.com/nfroidure/svgicons2svgfont/blob/master/LICENSE)
+[MIT](https://github.com/nfroidure/svgicons2svgfont2/blob/master/LICENSE)
